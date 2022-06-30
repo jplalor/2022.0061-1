@@ -80,11 +80,11 @@ poetry install
 
 Figure 6 in the paper shows the results of comparing runtime between py-irt and mirt on various data set sizes.
 
-![Figure 6](results/runtime_2d.pdf)
+![Figure 6](results/runtime_2D.png)
 
 Figure 7 in the paper shows RMSE for predicting the probability of a correct response from 2PL models with varying levels of items and subjects.
 
-![Figure 7](results/mse_2D.pdf)
+![Figure 7](results/mse_2D.png)
 
 ## Ongoing Development
 
