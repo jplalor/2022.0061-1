@@ -11,7 +11,7 @@ that were used in the research reported on in the paper
 [This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by J.P. Lalor and P. Rodriguez. 
 The snapshot is based on 
 [this SHA](https://github.com/nd-ball/py-irt/commit/6c69584a42d34bd2b4fd1d43550ef7fbb92b755d) 
-in the development repository. 
+in the development repository, which represents v0.4.5 of the package. 
 
 **Important: This code is being developed on an on-going basis at 
 https://github.com/nd-ball/py-irt. Please go there if you would like to
