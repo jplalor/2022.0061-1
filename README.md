@@ -8,7 +8,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by J.P. Lalor and P. Rodriguez. 
+"py-irt: A Scalable Item Response Theory Library for Python" by J.P. Lalor and P. Rodriguez. 
 The snapshot is based on 
 [this SHA](https://github.com/nd-ball/py-irt/commit/6c69584a42d34bd2b4fd1d43550ef7fbb92b755d) 
 in the development repository, which represents v0.4.5 of the package. 
@@ -33,7 +33,6 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{py-irt} Version v0.4.5},
   year =          {2022},
-  doi =           {TODO},
   url =           {https://github.com/INFORMSJoC/2022.0061},
 }  
 ```
